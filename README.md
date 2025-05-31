@@ -1,6 +1,7 @@
 # QuickCart - E-Commerce Website
 
 ![image](https://github.com/user-attachments/assets/60b0fade-9df0-4069-9e6b-10991e91a743)
+![image](https://github.com/user-attachments/assets/03d3edfd-1152-4ecf-8dc5-07c1f5b396a1)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
